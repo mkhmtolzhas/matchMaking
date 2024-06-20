@@ -3,7 +3,7 @@ import React from 'react'
 
 const HomePage = () => {
   return (
-    <section className="w-full h-[75vh] md:h-screen bg-cover items-center pt-[50px] px-[8%] pb-[0] flex font-mono text-black home-page">
+    <section className="w-full h-[85vh] md:h-screen bg-cover items-center pt-[50px] px-[8%] pb-[0] flex font-mono text-black home-page">
         <div className="max-w-[630px]">
             <h1 className='text-[45px] leading-[1.2] font-extrabold'>Together</h1>
             <h1 className='text-[45px] leading-[1.2] font-extrabold'>We Inspire</h1>
